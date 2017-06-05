@@ -7,3 +7,6 @@ You will play against a really difficult player, my solution of an AI for this g
 
 ## Wanna play?
 [**Tic Tac Toe**](https://tictactoe-vp.herokuapp.com/)
+
+### Program languages used
+JavaScript (+ JQuery), HTML, CSS
